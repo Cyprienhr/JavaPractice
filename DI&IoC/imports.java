@@ -1,19 +1,19 @@
-import java.util.ArrayList;
+// import java.util.ArrayList;
 
-public class imports {
-    /**
-     *
-     */
-    ArrayList<String> list = new ArrayList<>();
+// public class imports {
+//     /**
+//      *
+//      */
+//     ArrayList<String> list = new ArrayList<>();
 
-    public ArrayList<String> getList() {
-        return list;
-    }
+//     public ArrayList<String> getList() {
+//         return list;
+//     }
 
-    /**
-     * @param list
-     */
-    public void setList(ArrayList<String> list) {
-        this.list = list;
-    }
-}
+//     /**
+//      * @param list
+//      */
+//     public void setList(ArrayList<String> list) {
+//         this.list = list;
+//     }
+// }
